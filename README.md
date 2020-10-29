@@ -1,6 +1,4 @@
-<h2><style>
-  font-family: 'Calibri', Arial;
- Hey there! I'm Elnatan. </style>
+<h2 style="font-family: 'Calibri', Arial, Sans-serif"> Hey there! I'm Elnatan.
   <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
