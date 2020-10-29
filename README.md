@@ -1,9 +1,9 @@
-<h2 style="font-family: 'Calibri', Arial, Sans-serif"> Hey there! I'm Elnatan.
+<h2 style="font-family: 'roboto', arial, sans-serif"> Hey there! I'm Elnatan.
   <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 💻 About Me </h3>
+<h3 style="font-family: 'Calibri', arial, sans-serif"> 💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Bootstrap
 - 🤔 &nbsp; Exploring new technologies
@@ -13,7 +13,7 @@
 
 <br />
 
-<h3> Languages and Tools 🛠 </h3> 
+<h3 style="font-family: 'Calibri', arial, sans-serif"> Languages and Tools 🛠 </h3> 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
@@ -28,7 +28,7 @@
 
 <br/>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 style="font-family: 'Calibri', arial, sans-serif"> 🤝🏻 Connect with Me </h3>
 
   <p align="center">
     &nbsp; <a href="https://www.linkedin.com/in/elnatan-souza-5ba191193/" target="_blank" rel="noopener noreferrer"><img                src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
