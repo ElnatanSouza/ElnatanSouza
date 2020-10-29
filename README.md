@@ -1,9 +1,9 @@
-<h2 style="font-family: 'roboto', arial, sans-serif"> Hey there! I'm Elnatan.
+<h2> Hey there! I'm Elnatan.
   <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3 style="font-family: 'Calibri', arial, sans-serif"> 💻 About Me </h3>
+<h3> 💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Bootstrap
 - 🤔 &nbsp; Exploring new technologies
@@ -13,22 +13,22 @@
 
 <br />
 
-<h3 style="font-family: 'Calibri', arial, sans-serif"> Languages and Tools 🛠 </h3> 
+<h3> Languages and Tools 🛠 </h3> 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
 
-<h3 style="font-family: 'Calibri', arial, sans-serif"> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
   <p align="center">
     &nbsp; <a href="https://www.linkedin.com/in/elnatan-souza-5ba191193/" target="_blank" rel="noopener noreferrer"><img                src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
