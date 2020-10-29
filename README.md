@@ -7,7 +7,7 @@
 
 - 🔭 &nbsp; I’m currently learning Bootstrap
 - 🤔 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Studying Full stack developer, by Recode
+- 🎓 &nbsp; Studying Full Stack Web Developer, by Recode
 - 💼 &nbsp; Full stack Web developer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
