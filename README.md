@@ -5,10 +5,10 @@
 
 <h3> 💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Bootstrap
-- 🤔 &nbsp; Exploring new technologies
+- 🔭 &nbsp; I’m currently learning React.JS
+- 🤔 &nbsp; Exploring new technologies ever
 - 🎓 &nbsp; Studying Full Stack Web Developer, by Recode
-- 💼 &nbsp; Full stack Web developer.
+- 💼 &nbsp; Full Stack Web developer.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <br />
