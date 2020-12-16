@@ -3,6 +3,8 @@
 </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ElnatanSouza&theme=buefy"/>  
+
 <h3> 💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning React.JS
@@ -12,8 +14,6 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <br />
-
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ElnatanSouza&theme=buefy"/>  
 
 <h3> Languages and Tools 🛠 </h3> 
 
