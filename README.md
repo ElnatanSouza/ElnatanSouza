@@ -7,7 +7,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&layout=compact&theme=radical)](https://github.com/ElnatanSouza/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&layout=compact&theme=radical)](https://github.com/ElnatanSouza/github-readme-stats)
 
 </span>
 
