@@ -22,7 +22,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
