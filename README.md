@@ -2,14 +2,6 @@
   <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 </h2>
 
-<span text-align="right">
-![Elnatan's github stats](https://github-readme-stats.vercel.app/api?username=ElnatanSouza&show_icons=true&theme=radical)
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&layout=compact&theme=radical)](https://github.com/ElnatanSouza/github-readme-stats)
-
-</span>
 
 <h3> 💻 About Me </h3>
 
