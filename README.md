@@ -13,7 +13,7 @@
 
 <br />
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=seu_usuário&theme=buefy"/>  
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ElnatanSouza&theme=buefy"/>  
 
 <h3> Languages and Tools 🛠 </h3> 
 
