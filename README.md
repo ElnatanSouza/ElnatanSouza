@@ -3,7 +3,9 @@
 </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ElnatanSouza&theme=buefy"/>  
+![Elnatan's github stats](https://github-readme-stats.vercel.app/api?username=ElnatanSouza&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&layout=compact&theme=radical)](https://github.com/ElnatanSouza/github-readme-stats)
 
 <h3> 💻 About Me </h3>
 
