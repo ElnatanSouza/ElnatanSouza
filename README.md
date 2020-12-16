@@ -13,10 +13,14 @@
 
 <br /> 
 
- ![Elnatan's github stats](https://github-readme-stats.vercel.app/api?username=ElnatanSouza&show_icons=true&theme=radical)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&layout=compact&theme=radical)](https://github.com/ElnatanSouza/github-readme-stats)
 
+ ![<p align="right"> Elnatan's github stats](https://github-readme-stats.vercel.app/api?username=ElnatanSouza&show_icons=true&theme=radical)
+ </p>
+ 
+ <br /> 
+  
+  [![<p align="right">Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&layout=compact&theme=radical)](https://github.com/ElnatanSouza/github-readme-stats)
+</p>
   <br />
 
 <h3> Languages and Tools 🛠 </h3> 
@@ -37,5 +41,4 @@
 
   <p align="left">
     &nbsp; <a href="https://www.linkedin.com/in/elnatan-souza-5ba191193/" target="_blank" rel="noopener noreferrer"><img                src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-  ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elnatan.souzas@gmail.com)](mailto:elnatan.souzas@gmail.com)
-  </p> 
+  </p>
