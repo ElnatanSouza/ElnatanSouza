@@ -2,14 +2,6 @@
   <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=seu_usuário&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
 
 <h3> 💻 About Me </h3>
 
@@ -20,6 +12,8 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <br />
+
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=seu_usuário&theme=buefy"/>  
 
 <h3> Languages and Tools 🛠 </h3> 
 
