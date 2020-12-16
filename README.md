@@ -1,9 +1,10 @@
 <h2> Hey there! I'm Elnatan.
   <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 </h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ![Elnatan's github stats](https://github-readme-stats.vercel.app/api?username=ElnatanSouza&show_icons=true&theme=radical)
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&layout=compact&theme=radical)](https://github.com/ElnatanSouza/github-readme-stats)
 
