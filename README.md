@@ -27,7 +27,7 @@
 
 <br/>
 
-[![Elnatan's github stats](https://github-readme-stats.vercel.app/api?username=ElnatanSouza&show_icons=true&theme=radical)
+[!Elnatan's github stats](https://github-readme-stats.vercel.app/api?username=ElnatanSouza&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&layout=compact&theme=radical)](https://github.com/ElnatanSouza/github-readme-stats)
 
