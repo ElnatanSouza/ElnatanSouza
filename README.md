@@ -14,8 +14,8 @@
 <br /> 
 
 <a href="https://github.com/ElnatanSouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElnatanSouza&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&theme=buefy&layout=compact" />
+  <img width="400px" height="230" src="https://github-readme-stats.vercel.app/api?username=ElnatanSouza&theme=buefy&show_icons=true" />
+  <img width="400px" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnatanSouza&theme=buefy&layout=compact" />
 </a>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
