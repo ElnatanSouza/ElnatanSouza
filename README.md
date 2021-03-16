@@ -47,5 +47,5 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elnatan.souzas@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elnatan-souza-5ba191193/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elnatansouza/)
   <a href="https://www.instagram.com/elnatz2.0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=Instagram"></a>
